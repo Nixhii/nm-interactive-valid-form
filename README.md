@@ -30,4 +30,3 @@ An interactive registration form built using **HTML, CSS, and JavaScript** that 
    - Username must not be empty  
    - Email must match proper format  
    - Password must meet length or character rules  
-3. I
